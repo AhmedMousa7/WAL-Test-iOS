@@ -1,2 +1,2 @@
 # WAL-Test-iOS
-This repo is a practice for what i learned in iOS development
+This repo is a practice for what I'm learning in iOS development
